@@ -1,0 +1,43 @@
+# First-order (sampling)
+the cat sat on the dog ran to the cat sat on the cat sat on the dog ran to
+the dog sat on the mat
+the park
+the dog sat on the rug
+the park
+the cat sat on the cat sat on the mat
+the mat
+the dog sat on the mat
+the rug
+the dog sat on the mat
+the park
+the mat
+the mat
+the mat
+the mat
+the rug
+the cat sat on the cat sat on the park
+the dog ran to the dog sat on the park
+the rug
+the park
+
+# Second-order (sampling)
+the cat ran to the park
+the cat sat on the mat
+the dog ran to the park
+the dog sat on the rug
+the cat sat on the rug
+the cat sat on the mat
+the cat sat on the rug
+the dog ran to the park
+the cat sat on the rug
+the cat sat on the rug
+the cat ran to the park
+the dog ran to the park
+the dog sat on the mat
+the cat sat on the mat
+the cat ran to the park
+the dog ran to the park
+the dog sat on the rug
+the dog sat on the rug
+the cat sat on the rug
+the dog sat on the rug
